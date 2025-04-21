@@ -12,7 +12,7 @@
 I'm a passionate **Backend Developer** from Brazil focused on building **scalable**, **efficient**, and **clean** systems. I love solving complex problems and designing solid backend architectures that power great digital experiences.
 
 - 🔧 **Tech Stack:** Node.js · TypeScript · PHP
-- ⚙️ **Frameworks & Tools:** Express · Laravel · Docker · GraphQL · PostgreSQL · MongoDB
+- ⚙️ **Frameworks & Tools:** Express · NestJs · Laravel · Docker · GraphQL · PostgreSQL · MongoDB
 - ☁️ **Currently Exploring:** Cloud services (AWS/Firebase), DevOps, and system design best practices
 - 🧹 **Philosophy:** Clean Code · Clean Architecture · Continuous Learning
 
